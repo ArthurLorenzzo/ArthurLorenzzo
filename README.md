@@ -1,4 +1,4 @@
-<h2>Yoo!</h2>
+<h2>Yo</h2>
 
 ⚡ Arthur Lorenzzo
 
