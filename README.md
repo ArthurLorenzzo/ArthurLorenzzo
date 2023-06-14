@@ -1,10 +1,6 @@
-<h2>Yo</h2>
+<h2>⚡ Arthur Lorenzzo</h2>
 
-⚡ Arthur Lorenzzo
-
-💻 Im currently working on Foursys
-
-📖 Im curently learning Android development
+📖 Im curently learning Software development
 
 <br>
 <div>
